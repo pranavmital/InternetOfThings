@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Max/AndroidStudioProjects/QuickStartApp/app/libs/huesdkresources.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7183fbb86900448556ef87d3af0db01a77c27a09">
+        <dex dex="/Users/Max/AndroidStudioProjects/QuickStartApp/app/build/intermediates/pre-dexed/debug/huesdkresources_69772be81b74e997824f517f7062a69335f01e1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Max/AndroidStudioProjects/QuickStartApp/app/libs/huelocalsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="07362e192094e402e032db4407c86e36080340ab">
+        <dex dex="/Users/Max/AndroidStudioProjects/QuickStartApp/app/build/intermediates/pre-dexed/debug/huelocalsdk_c1778f9d14554321188938b700a29dd1bf2b1bca.jar" />
+    </item>
+
+</items>
